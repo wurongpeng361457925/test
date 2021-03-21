@@ -5,3 +5,4 @@ git push -u origin master
 B add content
 CentOS update content
 windows client update
+windows 2 update
