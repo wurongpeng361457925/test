@@ -1,2 +1,3 @@
 master index.txt
 给远程仓库起别名  git remote 别名 远程仓库地址
+git push -u origin master
