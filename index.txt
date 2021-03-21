@@ -4,5 +4,7 @@ git push -u origin master
 再次提交 直接使用git push就可以了
 B add content
 CentOS update content
+CentOS update 2
 windows client update
 windows 2 update
+conflect in CentOS 
