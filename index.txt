@@ -3,3 +3,4 @@ master index.txt
 git push -u origin master
 再次提交 直接使用git push就可以了
 B add content
+CentOS update content
